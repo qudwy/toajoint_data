@@ -1,0 +1,11 @@
+{
+  "type": "toajoint:water",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "toajoint:water"
+    },
+    "settings": "toajoint:water"
+  }
+}

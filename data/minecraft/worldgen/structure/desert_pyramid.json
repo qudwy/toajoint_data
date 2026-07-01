@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:desert_pyramid",
+  "biomes": "toajoint:stone",
+  "spawn_overrides": {},
+  "step": "surface_structures"
+}

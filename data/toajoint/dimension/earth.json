@@ -1,0 +1,11 @@
+{
+  "type": "toajoint:earth",
+  "generator": {
+    "type": "minecraft:noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "toajoint:earth"
+    },
+    "settings": "toajoint:earth"
+  }
+}

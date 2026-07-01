@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:mineshaft",
+  "biomes": [
+    "toajoint:fire",
+    "toajoint:water",
+    "toajoint:air",
+    "toajoint:stone",
+    "toajoint:earth",
+    "toajoint:ice"
+  ],
+  "mineshaft_type": "normal",
+  "spawn_overrides": {},
+  "step": "underground_structures"
+}

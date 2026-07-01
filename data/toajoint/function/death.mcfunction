@@ -1,0 +1,2 @@
+tellraw @a [{"text":"[","color":"dark_gray"},{"text":"💀","color":"gold"},{"text":"] ","color":"dark_gray"},{"text":"","color":"gray"},{"selector":"@s","color":"gray"}]
+scoreboard players set @s death 0

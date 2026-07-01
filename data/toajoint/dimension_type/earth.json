@@ -1,0 +1,59 @@
+{
+  "attributes": {
+    "minecraft:visual/ambient_particles": [
+      {
+        "particle": {
+          "type": "minecraft:entity_effect",
+          "color": [0.5, 0.5, 0.5, 0.5]
+        },
+        "probability": 0.001953125
+      }
+    ],
+    "minecraft:gameplay/bed_rule": {
+      "can_sleep": "always",
+      "can_set_spawn": "always",
+      "explodes": false,
+      "error_message": {
+        "translate": "block.minecraft.bed.no_sleep"
+      }
+    },
+    "minecraft:visual/cloud_color": [0, 0, 0, 0],
+    "minecraft:visual/cloud_fog_end_distance": 512,
+    "minecraft:visual/fog_end_distance": 192,
+    "minecraft:visual/fog_start_distance": 0,
+    "minecraft:visual/moon_phase": "full_moon",
+    "minecraft:visual/sky_fog_end_distance": 128,
+    "minecraft:visual/water_fog_end_distance": 48,
+    "minecraft:visual/water_fog_start_distance": -16,
+    "minecraft:gameplay/bees_stay_in_hive": false,
+    "minecraft:gameplay/can_pillager_patrol_spawn": true,
+    "minecraft:gameplay/can_start_raid": true,
+    "minecraft:gameplay/fast_lava": false,
+    "minecraft:gameplay/increased_fire_burnout": false,
+    "minecraft:gameplay/monsters_burn": true,
+    "minecraft:gameplay/nether_portal_spawns_piglin": true,
+    "minecraft:gameplay/piglins_zombify": false,
+    "minecraft:gameplay/respawn_anchor_works": true,
+    "minecraft:gameplay/snow_golem_melts": false,
+    "minecraft:gameplay/water_evaporates": false,
+    "minecraft:visual/ambient_light_color": 592137,
+    "minecraft:audio/music_volume": 0,
+    "minecraft:visual/cloud_height": 192.03125
+  },
+  "ambient_light": 0,
+  "coordinate_scale": 1,
+  "has_ceiling": true,
+  "has_ender_dragon_fight": false,
+  "has_skylight": false,
+  "height": 2048,
+  "infiniburn": "#minecraft:infiniburn_overworld",
+  "logical_height": 384,
+  "min_y": -64,
+  "monster_spawn_block_light_limit": 0,
+  "monster_spawn_light_level": {
+    "type": "minecraft:uniform",
+    "max_inclusive": 7,
+    "min_inclusive": 0
+  },
+  "timelines": "#minecraft:in_nether"
+}

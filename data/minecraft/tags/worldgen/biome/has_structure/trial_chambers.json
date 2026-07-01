@@ -1,0 +1,10 @@
+{
+  "values": [
+    "toajoint:air",
+    "toajoint:stone",
+    "toajoint:ice",
+    "toajoint:fire",
+    "toajoint:water",
+    "toajoint:earth"
+  ]
+}
