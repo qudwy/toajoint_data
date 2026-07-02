@@ -1,0 +1,14 @@
+{
+	"name": "toajoint:nether_fortress/nether_brick_base",
+	"fallback": "toajoint:nether_fortress/nether_brick_base",
+	"elements": [
+    {
+      "element": {
+        "element_type": "minecraft:feature_pool_element",
+        "feature": "toajoint:nether_brick_base",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ]
+}

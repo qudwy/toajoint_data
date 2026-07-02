@@ -10,7 +10,7 @@
       "color": "dark_gray"
     },
     {
-      "text": "меню эмодзи",
+      "text": "emoji menu",
       "color": "dark_green"
     }
   ],
@@ -19,7 +19,7 @@
   "actions": [
     {
       "label": "😀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -28,7 +28,7 @@
     },
     {
       "label": "😃",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -37,7 +37,7 @@
     },
     {
       "label": "😄",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -46,7 +46,7 @@
     },
     {
       "label": "😁",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -55,7 +55,7 @@
     },
     {
       "label": "😆",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -64,7 +64,7 @@
     },
     {
       "label": "😅",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -73,7 +73,7 @@
     },
     {
       "label": "🤣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -82,7 +82,7 @@
     },
     {
       "label": "😂",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -91,7 +91,7 @@
     },
     {
       "label": "🙂",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -100,7 +100,7 @@
     },
     {
       "label": "🙃",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -109,7 +109,7 @@
     },
     {
       "label": "🫠",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -118,7 +118,7 @@
     },
     {
       "label": "😉",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -127,7 +127,7 @@
     },
     {
       "label": "😊",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -136,7 +136,7 @@
     },
     {
       "label": "😇",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -145,7 +145,7 @@
     },
     {
       "label": "🥰",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -154,7 +154,7 @@
     },
     {
       "label": "😍",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -163,7 +163,7 @@
     },
     {
       "label": "🤩",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -172,7 +172,7 @@
     },
     {
       "label": "😘",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -181,7 +181,7 @@
     },
     {
       "label": "😗",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -190,7 +190,7 @@
     },
     {
       "label": "☺",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -199,7 +199,7 @@
     },
     {
       "label": "😚",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -208,7 +208,7 @@
     },
     {
       "label": "😙",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -217,7 +217,7 @@
     },
     {
       "label": "🥲",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -226,7 +226,7 @@
     },
     {
       "label": "😋",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -235,7 +235,7 @@
     },
     {
       "label": "😛",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -244,7 +244,7 @@
     },
     {
       "label": "😜",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -253,7 +253,7 @@
     },
     {
       "label": "🤪",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -262,7 +262,7 @@
     },
     {
       "label": "😝",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -271,7 +271,7 @@
     },
     {
       "label": "🤑",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -280,7 +280,7 @@
     },
     {
       "label": "🤗",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -289,7 +289,7 @@
     },
     {
       "label": "🤭",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -298,7 +298,7 @@
     },
     {
       "label": "🫢",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -307,7 +307,7 @@
     },
     {
       "label": "🫣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -316,7 +316,7 @@
     },
     {
       "label": "🤫",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -325,7 +325,7 @@
     },
     {
       "label": "🤔",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -334,7 +334,7 @@
     },
     {
       "label": "🫡",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -343,7 +343,7 @@
     },
     {
       "label": "🤐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -352,7 +352,7 @@
     },
     {
       "label": "🤨",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -361,7 +361,7 @@
     },
     {
       "label": "😐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -370,7 +370,7 @@
     },
     {
       "label": "😑",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -379,7 +379,7 @@
     },
     {
       "label": "😶",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -388,7 +388,7 @@
     },
     {
       "label": "🫥",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -397,7 +397,7 @@
     },
     {
       "label": "😏",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -406,7 +406,7 @@
     },
     {
       "label": "😒",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -415,7 +415,7 @@
     },
     {
       "label": "🙄",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -424,7 +424,7 @@
     },
     {
       "label": "😬",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -433,7 +433,7 @@
     },
     {
       "label": "🤥",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -442,7 +442,7 @@
     },
     {
       "label": "🫨",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -451,7 +451,7 @@
     },
     {
       "label": "😌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -460,7 +460,7 @@
     },
     {
       "label": "😔",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -469,7 +469,7 @@
     },
     {
       "label": "😪",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -478,7 +478,7 @@
     },
     {
       "label": "🤤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -487,7 +487,7 @@
     },
     {
       "label": "😴",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -496,7 +496,7 @@
     },
     {
       "label": "🫩",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -505,7 +505,7 @@
     },
     {
       "label": "😷",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -514,7 +514,7 @@
     },
     {
       "label": "🤒",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -523,7 +523,7 @@
     },
     {
       "label": "🤕",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -532,7 +532,7 @@
     },
     {
       "label": "🤢",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -541,7 +541,7 @@
     },
     {
       "label": "🤮",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -550,7 +550,7 @@
     },
     {
       "label": "🤧",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -559,7 +559,7 @@
     },
     {
       "label": "🥵",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -568,7 +568,7 @@
     },
     {
       "label": "🥶",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -577,7 +577,7 @@
     },
     {
       "label": "🥴",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -586,7 +586,7 @@
     },
     {
       "label": "😵",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -595,7 +595,7 @@
     },
     {
       "label": "🤯",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -604,7 +604,7 @@
     },
     {
       "label": "🤠",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -613,7 +613,7 @@
     },
     {
       "label": "🥳",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -622,7 +622,7 @@
     },
     {
       "label": "🥸",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -631,7 +631,7 @@
     },
     {
       "label": "😎",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -640,7 +640,7 @@
     },
     {
       "label": "🤓",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -649,7 +649,7 @@
     },
     {
       "label": "🧐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -658,7 +658,7 @@
     },
     {
       "label": "😕",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -667,7 +667,7 @@
     },
     {
       "label": "🫤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -676,7 +676,7 @@
     },
     {
       "label": "😟",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -685,7 +685,7 @@
     },
     {
       "label": "🙁",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -694,7 +694,7 @@
     },
     {
       "label": "☹",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -703,7 +703,7 @@
     },
     {
       "label": "😮",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -712,7 +712,7 @@
     },
     {
       "label": "😯",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -721,7 +721,7 @@
     },
     {
       "label": "😲",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -730,7 +730,7 @@
     },
     {
       "label": "😳",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -739,7 +739,7 @@
     },
     {
       "label": "🥺",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -748,7 +748,7 @@
     },
     {
       "label": "🥹",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -757,7 +757,7 @@
     },
     {
       "label": "😦",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -766,7 +766,7 @@
     },
     {
       "label": "😧",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -775,7 +775,7 @@
     },
     {
       "label": "😨",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -784,7 +784,7 @@
     },
     {
       "label": "😰",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -793,7 +793,7 @@
     },
     {
       "label": "😥",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -802,7 +802,7 @@
     },
     {
       "label": "😢",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -811,7 +811,7 @@
     },
     {
       "label": "😭",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -820,7 +820,7 @@
     },
     {
       "label": "😱",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -829,7 +829,7 @@
     },
     {
       "label": "😖",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -838,7 +838,7 @@
     },
     {
       "label": "😣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -847,7 +847,7 @@
     },
     {
       "label": "😞",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -856,7 +856,7 @@
     },
     {
       "label": "😓",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -865,7 +865,7 @@
     },
     {
       "label": "😩",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -874,7 +874,7 @@
     },
     {
       "label": "😫",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -883,7 +883,7 @@
     },
     {
       "label": "🥱",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -892,7 +892,7 @@
     },
     {
       "label": "😤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -901,7 +901,7 @@
     },
     {
       "label": "😡",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -910,7 +910,7 @@
     },
     {
       "label": "😠",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -919,7 +919,7 @@
     },
     {
       "label": "🤬",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -928,7 +928,7 @@
     },
     {
       "label": "😈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -937,7 +937,7 @@
     },
     {
       "label": "👿",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -946,7 +946,7 @@
     },
     {
       "label": "💀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -955,7 +955,7 @@
     },
     {
       "label": "☠",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -964,7 +964,7 @@
     },
     {
       "label": "👹",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -973,7 +973,7 @@
     },
     {
       "label": "👺",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -982,7 +982,7 @@
     },
     {
       "label": "👻",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -991,7 +991,7 @@
     },
     {
       "label": "👽",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1000,7 +1000,7 @@
     },
     {
       "label": "👾",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1009,7 +1009,7 @@
     },
     {
       "label": "🤖",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1018,7 +1018,7 @@
     },
     {
       "label": "😺",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1027,7 +1027,7 @@
     },
     {
       "label": "😸",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1036,7 +1036,7 @@
     },
     {
       "label": "😹",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1045,7 +1045,7 @@
     },
     {
       "label": "😻",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1054,7 +1054,7 @@
     },
     {
       "label": "😼",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1063,7 +1063,7 @@
     },
     {
       "label": "😽",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1072,7 +1072,7 @@
     },
     {
       "label": "🙀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1081,7 +1081,7 @@
     },
     {
       "label": "😿",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1090,7 +1090,7 @@
     },
     {
       "label": "😾",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1099,7 +1099,7 @@
     },
     {
       "label": "🙈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1108,7 +1108,7 @@
     },
     {
       "label": "🙉",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1117,7 +1117,7 @@
     },
     {
       "label": "🙊",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1126,7 +1126,7 @@
     },
     {
       "label": "💌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1135,7 +1135,7 @@
     },
     {
       "label": "💘",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1144,7 +1144,7 @@
     },
     {
       "label": "💝",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1153,7 +1153,7 @@
     },
     {
       "label": "💖",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1162,7 +1162,7 @@
     },
     {
       "label": "💗",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1171,7 +1171,7 @@
     },
     {
       "label": "💓",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1180,7 +1180,7 @@
     },
     {
       "label": "💞",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1189,7 +1189,7 @@
     },
     {
       "label": "💕",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1198,7 +1198,7 @@
     },
     {
       "label": "💟",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1207,7 +1207,7 @@
     },
     {
       "label": "❣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1216,7 +1216,7 @@
     },
     {
       "label": "💔",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1225,7 +1225,7 @@
     },
     {
       "label": "❤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1234,7 +1234,7 @@
     },
     {
       "label": "🧡",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1243,7 +1243,7 @@
     },
     {
       "label": "💛",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1252,7 +1252,7 @@
     },
     {
       "label": "💚",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1261,7 +1261,7 @@
     },
     {
       "label": "💙",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1270,7 +1270,7 @@
     },
     {
       "label": "💜",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1279,7 +1279,7 @@
     },
     {
       "label": "🖤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1288,7 +1288,7 @@
     },
     {
       "label": "🤎",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1297,7 +1297,7 @@
     },
     {
       "label": "🤍",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1306,7 +1306,7 @@
     },
     {
       "label": "🤏",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1315,7 +1315,7 @@
     },
     {
       "label": "✍",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1324,7 +1324,7 @@
     },
     {
       "label": "💅",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1333,7 +1333,7 @@
     },
     {
       "label": "🤳",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1342,7 +1342,7 @@
     },
     {
       "label": "💪",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1351,7 +1351,7 @@
     },
     {
       "label": "👂",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1360,7 +1360,7 @@
     },
     {
       "label": "👃",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1369,7 +1369,7 @@
     },
     {
       "label": "🧠",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1378,7 +1378,7 @@
     },
     {
       "label": "👀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1387,7 +1387,7 @@
     },
     {
       "label": "👁",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1396,7 +1396,7 @@
     },
     {
       "label": "👅",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1405,7 +1405,7 @@
     },
     {
       "label": "👄",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1414,7 +1414,7 @@
     },
     {
       "label": "🗣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1423,7 +1423,7 @@
     },
     {
       "label": "👋",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1432,7 +1432,7 @@
     },
     {
       "label": "🤚",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1441,7 +1441,7 @@
     },
     {
       "label": "🖐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1450,7 +1450,7 @@
     },
     {
       "label": "✋",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1459,7 +1459,7 @@
     },
     {
       "label": "🖖",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1468,7 +1468,7 @@
     },
     {
       "label": "👌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1477,7 +1477,7 @@
     },
     {
       "label": "🤌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1486,7 +1486,7 @@
     },
     {
       "label": "✌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1495,7 +1495,7 @@
     },
     {
       "label": "🤞",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1504,7 +1504,7 @@
     },
     {
       "label": "🫰",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1513,7 +1513,7 @@
     },
     {
       "label": "🤟",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1522,7 +1522,7 @@
     },
     {
       "label": "🤘",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1531,7 +1531,7 @@
     },
     {
       "label": "🤙",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1540,7 +1540,7 @@
     },
     {
       "label": "👈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1549,7 +1549,7 @@
     },
     {
       "label": "👉",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1558,7 +1558,7 @@
     },
     {
       "label": "👆",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1567,7 +1567,7 @@
     },
     {
       "label": "👇",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1576,7 +1576,7 @@
     },
     {
       "label": "☝",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1585,7 +1585,7 @@
     },
     {
       "label": "👍",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1594,7 +1594,7 @@
     },
     {
       "label": "👎",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1603,7 +1603,7 @@
     },
     {
       "label": "✊",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1612,7 +1612,7 @@
     },
     {
       "label": "👊",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1621,7 +1621,7 @@
     },
     {
       "label": "🤛",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1630,7 +1630,7 @@
     },
     {
       "label": "🤜",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1639,7 +1639,7 @@
     },
     {
       "label": "👏",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1648,7 +1648,7 @@
     },
     {
       "label": "🙌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1657,7 +1657,7 @@
     },
     {
       "label": "👐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1666,7 +1666,7 @@
     },
     {
       "label": "🤲",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1675,7 +1675,7 @@
     },
     {
       "label": "🤝",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1684,7 +1684,7 @@
     },
     {
       "label": "🙏",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1693,7 +1693,7 @@
     },
     {
       "label": "💐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1702,7 +1702,7 @@
     },
     {
       "label": "🌸",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1711,7 +1711,7 @@
     },
     {
       "label": "💮",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1720,7 +1720,7 @@
     },
     {
       "label": "🏵",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1729,7 +1729,7 @@
     },
     {
       "label": "🌹",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1738,7 +1738,7 @@
     },
     {
       "label": "🥀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1747,7 +1747,7 @@
     },
     {
       "label": "🌺",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1756,7 +1756,7 @@
     },
     {
       "label": "🌻",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1765,7 +1765,7 @@
     },
     {
       "label": "🌼",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1774,7 +1774,7 @@
     },
     {
       "label": "🌷",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1783,7 +1783,7 @@
     },
     {
       "label": "⭐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1792,7 +1792,7 @@
     },
     {
       "label": "🌟",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1801,7 +1801,7 @@
     },
     {
       "label": "✨",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1810,7 +1810,7 @@
     },
     {
       "label": "⚡",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1819,7 +1819,7 @@
     },
     {
       "label": "☄",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1828,7 +1828,7 @@
     },
     {
       "label": "💥",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1837,7 +1837,7 @@
     },
     {
       "label": "🔥",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1846,7 +1846,7 @@
     },
     {
       "label": "🌈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1855,7 +1855,7 @@
     },
     {
       "label": "☀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1864,7 +1864,7 @@
     },
     {
       "label": "🌤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1873,7 +1873,7 @@
     },
     {
       "label": "⛅",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1882,7 +1882,7 @@
     },
     {
       "label": "🌥",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1891,7 +1891,7 @@
     },
     {
       "label": "☁",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1900,7 +1900,7 @@
     },
     {
       "label": "🌦",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1909,7 +1909,7 @@
     },
     {
       "label": "🌧",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1918,7 +1918,7 @@
     },
     {
       "label": "⛈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1927,7 +1927,7 @@
     },
     {
       "label": "🌩",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1936,7 +1936,7 @@
     },
     {
       "label": "🌨",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1945,7 +1945,7 @@
     },
     {
       "label": "❄",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1954,7 +1954,7 @@
     },
     {
       "label": "☃",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1963,7 +1963,7 @@
     },
     {
       "label": "⛄",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1972,7 +1972,7 @@
     },
     {
       "label": "🌬",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1981,7 +1981,7 @@
     },
     {
       "label": "💨",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1990,7 +1990,7 @@
     },
     {
       "label": "💧",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -1999,7 +1999,7 @@
     },
     {
       "label": "💦",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2008,7 +2008,7 @@
     },
     {
       "label": "☔",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2017,7 +2017,7 @@
     },
     {
       "label": "🥐",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2026,7 +2026,7 @@
     },
     {
       "label": "🥯",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2035,7 +2035,7 @@
     },
     {
       "label": "🍞",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2044,7 +2044,7 @@
     },
     {
       "label": "🍟",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2053,7 +2053,7 @@
     },
     {
       "label": "🍕",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2062,7 +2062,7 @@
     },
     {
       "label": "🌭",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2071,7 +2071,7 @@
     },
     {
       "label": "🍔",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2080,7 +2080,7 @@
     },
     {
       "label": "🍗",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2089,7 +2089,7 @@
     },
     {
       "label": "🍖",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2098,7 +2098,7 @@
     },
     {
       "label": "🌮",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2107,7 +2107,7 @@
     },
     {
       "label": "🌯",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2116,7 +2116,7 @@
     },
     {
       "label": "🍲",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2125,7 +2125,7 @@
     },
     {
       "label": "🥘",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2134,7 +2134,7 @@
     },
     {
       "label": "🍿",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2143,7 +2143,7 @@
     },
     {
       "label": "🎉",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2152,7 +2152,7 @@
     },
     {
       "label": "🎊",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2161,7 +2161,7 @@
     },
     {
       "label": "🎈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2170,7 +2170,7 @@
     },
     {
       "label": "🎀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2179,7 +2179,7 @@
     },
     {
       "label": "🎁",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2188,7 +2188,7 @@
     },
     {
       "label": "⚽",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2197,7 +2197,7 @@
     },
     {
       "label": "⚾",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2206,7 +2206,7 @@
     },
     {
       "label": "🥎",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2215,7 +2215,7 @@
     },
     {
       "label": "🏀",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2224,7 +2224,7 @@
     },
     {
       "label": "🏈",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2233,7 +2233,7 @@
     },
     {
       "label": "🏉",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2242,7 +2242,7 @@
     },
     {
       "label": "🎾",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2251,7 +2251,7 @@
     },
     {
       "label": "🥏",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2260,7 +2260,7 @@
     },
     {
       "label": "🎳",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2269,7 +2269,7 @@
     },
     {
       "label": "🏓",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2278,7 +2278,7 @@
     },
     {
       "label": "🏸",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2287,7 +2287,7 @@
     },
     {
       "label": "🏒",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2296,7 +2296,7 @@
     },
     {
       "label": "🏑",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2305,7 +2305,7 @@
     },
     {
       "label": "🥍",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2314,7 +2314,7 @@
     },
     {
       "label": "🏏",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2323,7 +2323,7 @@
     },
     {
       "label": "🥅",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2332,7 +2332,7 @@
     },
     {
       "label": "⛳",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2341,7 +2341,7 @@
     },
     {
       "label": "⛸",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2350,7 +2350,7 @@
     },
     {
       "label": "🎣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2359,7 +2359,7 @@
     },
     {
       "label": "🎽",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2368,7 +2368,7 @@
     },
     {
       "label": "🎿",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2377,7 +2377,7 @@
     },
     {
       "label": "🛷",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2386,7 +2386,7 @@
     },
     {
       "label": "🥌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2395,7 +2395,7 @@
     },
     {
       "label": "🔴",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2404,7 +2404,7 @@
     },
     {
       "label": "🟠",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2413,7 +2413,7 @@
     },
     {
       "label": "🟡",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2422,7 +2422,7 @@
     },
     {
       "label": "🟢",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2431,7 +2431,7 @@
     },
     {
       "label": "🔵",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2440,7 +2440,7 @@
     },
     {
       "label": "🟣",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2449,7 +2449,7 @@
     },
     {
       "label": "🟤",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2458,7 +2458,7 @@
     },
     {
       "label": "⚫",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2467,7 +2467,7 @@
     },
     {
       "label": "⚪",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2476,7 +2476,7 @@
     },
     {
       "label": "🏁",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2485,7 +2485,7 @@
     },
     {
       "label": "🚩",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",
@@ -2494,7 +2494,7 @@
     },
     {
       "label": "🎌",
-      "tooltip": [{"text": "нажми, чтобы скопировать!", "color": "white"}],
+      "tooltip": [{"text": "click to copy!"}],
       "width": 20,
       "action": {
         "type": "minecraft:copy_to_clipboard",

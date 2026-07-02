@@ -144,12 +144,6 @@
         "maxCount": 3
       },
       {
-        "type": "minecraft:llama",
-        "weight": 5,
-        "minCount": 4,
-        "maxCount": 6
-      },
-      {
         "type": "minecraft:wolf",
         "weight": 8,
         "minCount": 4,

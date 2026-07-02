@@ -1,6 +1,7 @@
 {
     "type": "crafting_shapeless",
-    "ingredients": [
+    "category": "misc",
+        "ingredients": [
         "glow_item_frame"
     ],
     "result": {

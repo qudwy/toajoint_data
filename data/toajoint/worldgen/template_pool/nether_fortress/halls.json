@@ -1,0 +1,141 @@
+{
+	"name": "nova_structure:nether_fortress/start",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_big_cross",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_big_curve_left",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_big_curve_right",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_big_straight",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_big_t-curve",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_blaze_stairs",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_netherwart_stairs",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_stairs",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_curve_l",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_curve_r",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_straight",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_straight_tower_1",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_straight_tower_2",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 2
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_t-curve",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 5
+    },
+	{
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_cross",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 5
+    }
+  ],
+  "fallback": "toajoint:nether_fortress/hallway_fallback"
+}

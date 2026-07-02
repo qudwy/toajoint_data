@@ -1,0 +1,15 @@
+{
+	"name": "nova_structure:nether_fortress/start",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "toajoint:nether_fortress/halls/nether_fortress_center",
+        "processors": "toajoint:nether_fortress_degradation",
+        "projection": "rigid"
+      },
+      "weight": 1
+    }
+  ],
+  "fallback": "toajoint:nether_fortress/start"
+}

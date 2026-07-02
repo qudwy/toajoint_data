@@ -3,4 +3,4 @@ execute store result score @s b.owner run data get entity @s Owner[1]
 execute store result score @s c.owner run data get entity @s Owner[2]
 execute store result score @s d.owner run data get entity @s Owner[3]
 
-tag @s add owner
+tag @s add hasowner
